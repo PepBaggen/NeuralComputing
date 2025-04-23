@@ -2,3 +2,4 @@
 .venv1
 test
 train
+.DS_Store
