@@ -1,7 +1,7 @@
 torch==2.6.0
 matplotlib
 numpy
-PIL==11.2.1
-os
+pillow==11.1.0
 pandas==2.2.3
 torchvision
+scikit-learn
