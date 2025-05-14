@@ -5,3 +5,4 @@ pillow==11.1.0
 pandas==2.2.3
 torchvision
 scikit-learn
+os
